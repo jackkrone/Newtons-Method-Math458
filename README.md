@@ -8,6 +8,6 @@ Start by downloading the writeup and skimming the overview of my work. Mapping t
 
 Example fractals:
 
-![image](https://user-images.githubusercontent.com/37680054/129309264-2d174702-2873-4b04-90c5-56a80e7bf2f9.png)![image](https://user-images.githubusercontent.com/37680054/129309238-20ce92d2-2588-4ee7-baee-f40716574cec.png)
-![image](https://user-images.githubusercontent.com/37680054/129309171-ec6a992f-91e5-4c9d-a674-04e5a60d1ddc.png)
+![image](https://user-images.githubusercontent.com/37680054/129309264-2d174702-2873-4b04-90c5-56a80e7bf2f9.png)![image](https://user-images.githubusercontent.com/37680054/129309369-f4651320-cf57-41af-85c1-c45ec70d7479.png)
+
 
