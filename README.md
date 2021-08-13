@@ -7,4 +7,5 @@ This is a project I completed in Numerical Methods (MATH 458) at USC. The task w
 Start by downloading the writeup and skimming the overview of my work. Mapping the convergence rate of Newton's method on top of the location of initial guesses for the root of a function in the complex plane produce interesting fractal geometries. There are many charts in the writeup that display these fractals. The code to create the fractals is included in the .m files.
 
 An example fractal:
+
 <img width="266" alt="Picture1" src="https://user-images.githubusercontent.com/37680054/129300220-09aa3c64-06ea-4e5e-b402-94dadedc6a2f.png">
